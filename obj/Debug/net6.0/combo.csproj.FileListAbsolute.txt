@@ -1,0 +1,15 @@
+C:\Users\student.COLLEGE\Desktop\combo\bin\Debug\net6.0\combo.exe
+C:\Users\student.COLLEGE\Desktop\combo\bin\Debug\net6.0\combo.deps.json
+C:\Users\student.COLLEGE\Desktop\combo\bin\Debug\net6.0\combo.runtimeconfig.json
+C:\Users\student.COLLEGE\Desktop\combo\bin\Debug\net6.0\combo.dll
+C:\Users\student.COLLEGE\Desktop\combo\bin\Debug\net6.0\combo.pdb
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.csproj.AssemblyReference.cache
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.AssemblyInfoInputs.cache
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.AssemblyInfo.cs
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.csproj.CoreCompileInputs.cache
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.dll
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\refint\combo.dll
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.pdb
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\combo.genruntimeconfig.cache
+C:\Users\student.COLLEGE\Desktop\combo\obj\Debug\net6.0\ref\combo.dll
